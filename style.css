@@ -39,3 +39,8 @@ input{
     margin: 48px 0px 0px 623px;
     box-shadow: 5px 6px rgba(164, 30, 182, 0.199);
 }
+
+footer{
+    margin: 183px 0px 0px 52px;
+    color: white;
+}
